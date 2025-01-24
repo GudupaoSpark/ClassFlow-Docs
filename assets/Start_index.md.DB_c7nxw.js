@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DGLcSY_8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Start/index.md","filePath":"Start/index.md","lastUpdated":1737733153000}'),r={name:"Start/index.md"};function n(o,s,d,c,i,p){return a(),e("div")}const f=t(r,[["render",n]]);export{m as __pageData,f as default};
