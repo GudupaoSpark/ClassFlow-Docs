@@ -4,15 +4,19 @@ layout: home
 
 hero:
   name: "ClassFlow"
-  text: "更好的同步课表"
+  text: 更好的
+  textsuffix: 同步课表
+  image:
+    src: /favicon.ico
+    alt: VitePress
   tagline: By Gudupao
   actions:
     - theme: brand
       text: 开始
-      link: /markdown-examples
+      link: /Start
     - theme: alt
       text: 服务
-      link: /api-examples
+      link: /Service
 
 features:
   - icon: 🚀
@@ -24,7 +28,9 @@ features:
   - icon: 👨‍💼
     title: 服务
     details: 提供免费的有限服务，也有 SaaS 及协助部署服务
-    link: mailto:official@gudupao.top
-    linkText: 联系我们
+    link: /Service
+    linkText: 了解详情
 ---
 
+<Confetti />
+<Home />
